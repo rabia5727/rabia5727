@@ -7,7 +7,7 @@ why one of my projects is a GPT built from scratch instead of just calling an
 API, and another is a multi-agent system where I designed the whole
 agent-to-agent data contract myself before writing a line of the pipeline.
 
-## What I'm building
+## What I build
 
 - [DropSpot3D](https://github.com/rabia5727/DropSpot3D)
 - ResearchSynth *(in progress)*
