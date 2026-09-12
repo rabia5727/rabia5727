@@ -13,7 +13,7 @@ agent-to-agent data contract myself before writing a line of the pipeline.
 - ResearchSynth *(in progress)*
 - Cognify *(in progress)*
 - [GPT-from-scratch](https://github.com/rabia5727/GPT-from-scratch)
-- [Nova-AI](https://github.com/rabia5727/Nova-AI)
+- [Nova-AI](https://github.com/rabia5727/Nova-Al-)
 - [Tijarat-AI](https://github.com/rabia5727/Tijarat-AI)
 - [Unified-Inbox](https://github.com/rabia5727/Unified-Inbox)
 - [Email-Auto-Responser](https://github.com/rabia5727/Email-Auto-Responser)
