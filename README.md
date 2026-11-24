@@ -1,4 +1,4 @@
-# Hi, I'm Rabia 👋
+# Hi, I'm Rabia 
 
 ### I build AI systems from the ground up, and I like knowing exactly why they work.
 
@@ -8,10 +8,10 @@ For a **multi-agent system**, I designed the agent-to-agent data contract before
 I also shipped **Cognify**, a full AI productivity app (Flutter + FastAPI) that works with Gmail, Google Classroom and Drive.
 
 - 🎓 BS Software Engineering · former AI/ML intern at **NetSol Technologies**
-- 🔬 Exploring AI safety: how LLM agents get manipulated through the tools they use
-- 🛠️ Latest project: [**Solar ROI Assessor**](https://github.com/rabia5727/solar-roi-assessor), which sizes solar systems for locations in Pakistan using NASA data
-- 🤝 Open to remote roles, research fellowships and collaborations
-- 📫 [LinkedIn](https://linkedin.com/in/rabia-noor-0b6469246)
+- Exploring AI safety: how LLM agents get manipulated through the tools they use
+-  Latest project: [**Solar ROI Assessor**](https://github.com/rabia5727/solar-roi-assessor), which sizes solar systems for locations in Pakistan using NASA data
+- Open to remote roles, research fellowships and collaborations
+- [LinkedIn](https://linkedin.com/in/rabia-noor-0b6469246)
 
 ## What I build
 
