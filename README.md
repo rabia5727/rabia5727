@@ -1,17 +1,23 @@
-# Hi, I'm Rabia
+# Hi, I'm Rabia 👋
 
-**Software Engineer who builds — and manages — AI-powered applications.**
+### I build AI systems from the ground up, and I like knowing exactly why they work.
 
-I like understanding how things work before reaching for a library — which is
-why one of my projects is a GPT built from scratch instead of just calling an
-API, and another is a multi-agent system where I designed the whole
-agent-to-agent data contract myself before writing a line of the pipeline.
+I'm a software engineer working on LLM agents, multi-agent pipelines and AI-powered apps.
+I'd rather write the transformer than import it. I built a **GPT from scratch**, line by line.
+For a **multi-agent system**, I designed the agent-to-agent data contract before writing any of the pipeline.
+I also shipped **Cognify**, a full AI productivity app (Flutter + FastAPI) that works with Gmail, Google Classroom and Drive.
+
+- 🎓 BS Software Engineering · former AI/ML intern at **NetSol Technologies**
+- 🔬 Exploring AI safety: how LLM agents get manipulated through the tools they use
+- 🛠️ Latest project: [**Solar ROI Assessor**](https://github.com/rabia5727/solar-roi-assessor), which sizes solar systems for locations in Pakistan using NASA data
+- 🤝 Open to remote roles, research fellowships and collaborations
+- 📫 [LinkedIn](https://linkedin.com/in/rabia-noor-0b6469246)
 
 ## What I build
 
 - [DropSpot3D](https://github.com/rabia5727/DropSpot3D)
-- ResearchSynth *(in progress)*
-- Cognify *(in progress)*
+- [ResearchSynth](https://github.com/rabia5727/ResearchSynth)
+- [Cognify](https://github.com/rabia5727/Cognify)
 - [GPT-from-scratch](https://github.com/rabia5727/GPT-from-scratch)
 - [Nova-AI](https://github.com/rabia5727/Nova-Al-)
 - [Tijarat-AI](https://github.com/rabia5727/Tijarat-AI)
